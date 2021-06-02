@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30319" started-at="2021-06-01T09:45:14Z" finished-at="2021-06-01T09:45:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30319" started-at="2021-06-01T09:45:14Z" finished-at="2021-06-01T09:45:44Z">
+      <class name="webapp.POMAppium">
+        <test-method status="PASS" signature="pomAppium()[pri:0, instance:webapp.POMAppium@243c4f91]" name="pomAppium" duration-ms="30110" started-at="2021-06-01T09:45:14Z" finished-at="2021-06-01T09:45:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomAppium -->
+      </class> <!-- webapp.POMAppium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
